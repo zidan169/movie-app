@@ -1,4 +1,4 @@
-@extends('_layout.main') 
+@extends('_layouts.main') 
 
 @section('content')
 <!-- ===== Main Content Start ===== -->
